@@ -1,6 +1,6 @@
-Age = 24
-height = 170
-name = "brahim"
+Age = 28
+height = 180
+name = "john"
 Student = True
 Married = None
 
